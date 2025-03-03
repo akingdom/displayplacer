@@ -52,10 +52,10 @@ function set_display_resolution() {
   fi
 }
 
-# Add your usage here...
+# Customize your usage here...
 
 # Example usage for a MacBook built-in screen
-# set_display_resolution "1920x1200" "60" "4" "on" "(0,0)" "0" "MacBook built in screen"
+set_display_resolution "1920x1200" "60" "4" "on" "(0,0)" "0" "MacBook built in screen"
 
 # Example usage for an external display (replace with actual values)
 # set_display_resolution "2560x1440" "60" "4" "on" "(0,0)" "0" "External Display Type"
